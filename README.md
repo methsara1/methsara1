@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Methsara!!!</h1>
-<h3 align="center">A passionate UI/UX Designer from Sri Lanka!</h3>
+<h3 align="center">A passionate System Engineer from Sri Lanka!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=methsara1&label=Profile%20views&color=0e75b6&style=flat" alt="methsara1" /> </p>
 
